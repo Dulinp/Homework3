@@ -1,7 +1,7 @@
 # Homework3
 ## Description
 This is a password generator created using a combo of html, css, and javascript.
-![Demo Picture] (https)
+![Demo Picture] (https://dulinp.github.io/Homework3/main/03-javascript-homework-demo.pmg)
 ## Requirements
 ### User Story
 AS AN employee with access to sensitive data
