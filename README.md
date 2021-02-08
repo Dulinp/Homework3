@@ -24,7 +24,7 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ## Installation
-Peform a git clone of this repository. Once cloned you will have the index.html, READme file, and the assets folder. The assets folder holds the css style sheet and javascript. 
+Peform a git clone of this repository. Once cloned you will have the index.html, READme file, assets folder. and Develop folder. The Develop folder holds the css style sheet and javascript. 
 ## Support
 https://www.w3schools.com/
 
